@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegressionCalculator", "RegressionCalculator.csproj", "{33F150B9-5DAD-4A28-9786-F56CAF2FC3CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Regression", "..\Regression\Regression.csproj", "{737AE115-2B76-469A-AE68-D7D0CF26E696}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33F150B9-5DAD-4A28-9786-F56CAF2FC3CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33F150B9-5DAD-4A28-9786-F56CAF2FC3CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33F150B9-5DAD-4A28-9786-F56CAF2FC3CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33F150B9-5DAD-4A28-9786-F56CAF2FC3CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{737AE115-2B76-469A-AE68-D7D0CF26E696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{737AE115-2B76-469A-AE68-D7D0CF26E696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{737AE115-2B76-469A-AE68-D7D0CF26E696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{737AE115-2B76-469A-AE68-D7D0CF26E696}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90EF6BA4-EA75-4536-93BF-B50554171925}
+	EndGlobalSection
+EndGlobal
